@@ -34,6 +34,6 @@ int main() {
             return 1;
     }
 
-    cout << "Result: " << result << endl;
+    cout << "Result : " << result << endl;
     return 0;
 }
