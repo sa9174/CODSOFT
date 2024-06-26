@@ -5,10 +5,10 @@ int main() {
     char operation;
     double num1, num2, result;
 
-    cout << "Enter operator (+, -, *, /): ";
+    cout << "Enter Operator (+, -, *, /): ";
     cin >> operation;
 
-    cout << "Enter two numbers: ";
+    cout << "Enter two Numbers: ";
     cin >> num1 >> num2 ;
 
     switch (operation) {
